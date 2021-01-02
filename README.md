@@ -3,7 +3,7 @@
 ## 说明
 * 仅限于 `国科大` 研一学生课程评估懒人
 * 由于是 `naive` 版本所以 `bug` 极有可能出现
-* 为了避开验证码所以使用了另一个登录网站[http://onestop.ucas.ac.cn](http://onestop.ucas.ac.cn)
+* 为了避开验证码所以使用了另一个登录网站[ http://onestop.ucas.ac.cn ](http://onestop.ucas.ac.cn)
 * 只是一个模拟点击的过程，挺水的
 * 小白刚学爬虫别笑话我，要不然不准你用哼唧唧
 ---
